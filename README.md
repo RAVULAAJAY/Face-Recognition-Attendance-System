@@ -20,7 +20,7 @@
    ![image at](https://github.com/RAVULAAJAY/Face-Recognition-Attendance-System/blob/32f3fa89659b3d151aa92ffc9b46de7d86e41f71/Images/Screenshot%202026-06-28%20121520.png)
 
 #### Attendance Page 
-   ![image at](https://github.com/RAVULAAJAY/Face-Recognition-Attendance-System/blob/main/Images/Attendance%20Page.png)
+   ![image at](https://github.com/RAVULAAJAY/Face-Recognition-Attendance-System/blob/f503443233f330f6ae9b1703f6811fb38c0930b6/Images/Screenshot%202026-06-28%20121540.png)
 
 ### 2) **OpenCV** library for face detection and recognition using:     
 ### a) **Haarcascade** algorithm for face detection.

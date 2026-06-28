@@ -107,11 +107,11 @@
 
      a) For database that has the details of the user.
      
-           conn = mysql.connector.connect(host="localhost", username="root", password="5moha@8234mo!#Ham", database="credentials")
+           conn = mysql.connector.connect(host="localhost", username="root", password="@8234mo!", database="credentials")
     
     b) For database that contains the details of the students.
            
-           conn = mysql.connector.connect(host = "localhost", username = "root", password = "5moha@8234mo!#Ham", database = "frs")
+           conn = mysql.connector.connect(host = "localhost", username = "root", password = "@8234mo!", database = "frs")
 
 3) Open Your MySQL WorkBench and Run these lines one by one on it.
 
@@ -148,12 +148,6 @@ f) `CREATE TABLE student (
          Address varchar(100) DEFAULT NULL
 )`
 
-    
-## License
-
-### [MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## Support
 
-### For support, reach out to Ajay.
+### For support, reach out to Ravula Ajay.

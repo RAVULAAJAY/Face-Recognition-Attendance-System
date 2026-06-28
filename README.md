@@ -17,7 +17,7 @@
    ![image at](https://github.com/RAVULAAJAY/Face-Recognition-Attendance-System/blob/main/Images/21.png)
 
 #### Student Deails Page
-   ![image at](https://github.com/RAVULAAJAY/Face-Recognition-Attendance-System/blob/main/Images/Details%20Page.png)
+   ![image at](https://github.com/RAVULAAJAY/Face-Recognition-Attendance-System/blob/32f3fa89659b3d151aa92ffc9b46de7d86e41f71/Images/Screenshot%202026-06-28%20121520.png)
 
 #### Attendance Page 
    ![image at](https://github.com/RAVULAAJAY/Face-Recognition-Attendance-System/blob/main/Images/Attendance%20Page.png)

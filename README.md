@@ -30,7 +30,7 @@
 
                    
 ### b) **LBPH** algorithm for face recognition and training the dataset of images.
-![image at](https://github.com/RAVULAAJAY/Face-Recognition-Attendance-System/blob/main/Images/re.png)
+![image at](https://github.com/RAVULAAJAY/Face-Recognition-Attendance-System/blob/5d8f7cc5292512101762840387f7a1ea5ad83e74/Images/Screenshot%202026-06-28%20124507.png)
                  
 
 ### 3) **OS** library for reading, writing and opening files and folders.

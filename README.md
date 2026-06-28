@@ -72,9 +72,6 @@
 
 ### 2) Press the **escape key** to close the training and face recognition window.
 
- [![Installation and Demo of Face Recognition Attendance System. Full code in Python.](https://ytcards.demolab.com/?id=jCzwcGH10XM&title=Installation+and+Demo+of+Face+Recognition+Attendance+System.+Full+code+in+Python.&lang=en&timestamp=1728498600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=653 "Installation and Demo of Face Recognition Attendance System. Full code in Python.")]([https://youtu.be/jCzwcGH10XM?si=6Xffrpw5f5WXF8hz])
-
-
 ## Features
 
 ### - Keeps a record of students in a school or university.
@@ -83,14 +80,6 @@
 ### - Captures student faces for recognition purposes.
 ### - Automatically marks and stores student attendance.
 ### - This software can be integrated with CCTV cameras for automated attendance - tracking, eliminating the need for manual attendance management.
-
-
-
-
-## Installation
-
-[![Installation and Demo of Face Recognition Attendance System. Full code in Python.](https://ytcards.demolab.com/?id=jCzwcGH10XM&title=Installation+and+Demo+of+Face+Recognition+Attendance+System.+Full+code+in+Python.&lang=en&timestamp=1728498600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=653 "Installation and Demo of Face Recognition Attendance System. Full code in Python.")]([https://youtu.be/jCzwcGH10XM?si=6Xffrpw5f5WXF8hz])
-
 
 ### You need to install some libraries using the command terminal so that the code runs smoothly on your device. You can use the given commands and run it on your command terminal.
 
